@@ -1,5 +1,5 @@
 
-<img src="./coder.gif" alt="Coder" />
+<img src="https://github.com/existentialcoder/existentialcoder/blob/master/coder.gif" alt="Coder" />
 
 ### Hi there. I am Shravan.👋
 - ### I code to wave away my deep existentialism. I code to feel more significant. I code cause I feel happy 😀
