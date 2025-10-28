@@ -6,6 +6,6 @@
 * #### Previously a full-stack engineer at [Freshworks](https://github.com/freshworks/) with experience working in `Typescript`, `Python` and `Java`.
 * #### Love to use and contribute Open source software.
 * #### Open to
-- help
-- any job openings
-- contribute to your next great idea.
+    - help
+    - any job openings
+    - contribute to your next great idea.
